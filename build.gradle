@@ -23,6 +23,7 @@ dependencies {
 
     runtimeOnly 'com.h2database:h2:1.4.197'
 
+    implementation 'org.springframework.boot:spring-boot-starter-mustache'
 }
 
 test {
